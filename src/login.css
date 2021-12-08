@@ -1,0 +1,25 @@
+.logincopyright {
+    margin-top: 50%;
+    height: 10vh;
+    background-color: lightgray;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: larger;
+}
+
+#login {
+    background-color: rgb(176, 208, 236);
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.qqqqq {
+    text-align: center;
+    color: black;
+    font-weight: bolder;
+    font-family: 'Righteous', cursive;
+    font-size: 30px;
+    text-decoration: underline;
+}
